@@ -1,0 +1,2 @@
+# SubdomainScanner
+Another Subdomain Fuzzer
